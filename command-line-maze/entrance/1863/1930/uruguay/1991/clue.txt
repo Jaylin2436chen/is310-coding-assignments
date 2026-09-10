@@ -1,0 +1,7 @@
+You're Correct! The very first FIFA Women’s World Cup was held in 1991.
+
+Now which country won that tournament?
+
+The correct path is hidden away. You must use the command that displays all files and directories, including hidden ones.
+
+Hint -> ls -a
