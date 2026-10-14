@@ -29,11 +29,9 @@ while number_of_songs < 1:
     number_of_songs = int(input("How many songs would you like to add? "))
 
 songs = []
-
 for number in range(number_of_songs):
     while True:
         print(f"\nSong {number + 1}")
-
         song_name = input("Enter the song name: ")
         artist_name = input("Enter the artist name: ")
         release_year = input("Enter the release year: ")
@@ -42,8 +40,8 @@ for number in range(number_of_songs):
         print("Artist:", artist_name)
         print("Song:", song_name)
         print("Release year:", release_year)
-
         answer = input("Is this entry correct? (yes/no): ").lower()
+
 
         if answer == "yes":
             song = {
@@ -57,7 +55,6 @@ for number in range(number_of_songs):
             print("Please enter the song again.")
 
 file_name = "python-libraries/artist_songs.json"
-
 with open(file_name, "w") as file:
     json.dump(songs, file, indent=2)
 
