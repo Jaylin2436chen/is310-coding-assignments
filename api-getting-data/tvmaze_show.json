@@ -1,0 +1,56 @@
+{
+    "id": 55138,
+    "url": "https://www.tvmaze.com/shows/55138/arcane-league-of-legends",
+    "name": "Arcane: League of Legends",
+    "type": "Animation",
+    "language": "English",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+    ],
+    "status": "Ended",
+    "runtime": null,
+    "averageRuntime": 41,
+    "premiered": "2021-11-06",
+    "ended": "2024-11-23",
+    "officialSite": "https://www.netflix.com/title/81435684",
+    "schedule": {
+        "time": "",
+        "days": [
+            "Saturday"
+        ]
+    },
+    "rating": {
+        "average": 8.5
+    },
+    "weight": 99,
+    "network": null,
+    "webChannel": {
+        "id": 1,
+        "name": "Netflix",
+        "country": null,
+        "officialSite": "https://www.netflix.com/"
+    },
+    "dvdCountry": null,
+    "externals": {
+        "tvrage": null,
+        "thetvdb": 371028,
+        "imdb": "tt11126994"
+    },
+    "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/536/1340287.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/536/1340287.jpg"
+    },
+    "summary": "<p>Set in utopian Piltover and the oppressed underground of Zaun, the story follows the origins of two iconic League champions \u2014 and the power that will tear them apart.</p>",
+    "updated": 1737820844,
+    "_links": {
+        "self": {
+            "href": "https://api.tvmaze.com/shows/55138"
+        },
+        "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3047365",
+            "name": "The Dirt Under Your Nails"
+        }
+    }
+}
